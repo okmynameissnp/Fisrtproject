@@ -1,5 +1,4 @@
-# Fisrtproject
-# Fisrtproject
+# WEBSCRAPINGJAVA
 I was given a link https://www.walmart.com/browse/electronics/dell-gaming-laptops/3944_3951_7052607_1849032_4519159 using this link i  have done WEB SCRAPING USING JAVA
 I USED JAVA USING ECLIIPSE AND USED JSOUP LIBARAY 
 TO DOWNLOAD JSOUP LIBRARY I WILL SEND LINK
