@@ -1,0 +1,11 @@
+Product Name,Product Price,Item Number,Model Number,Product Category,Product Description
+Dell G3 15 3500 Gaming Laptop, $799.00, 597984148, G3153500WHTPUS, Dell Gaming Laptops, Dell G3 15 3500 Gaming Laptop
+Dell G5 15 SE (5515) Gaming Laptop, $999.00, 816904290, G5 15 SE, Dell Gaming Laptops, Dell G5 15 SE (5515) Gaming Laptop
+Dell G5 15 (5510) Gaming Laptop, $1,049.00, 536516826, G5 15 5510, Dell Gaming Laptops, Dell G5 15 (5510) Gaming Laptop
+Dell G7 15 (7510) Gaming Laptop, $1,399.00, 476972877, G7 15 7510, Dell Gaming Laptops, Dell G7 15 (7510) Gaming Laptop
+Dell G7 17 (7710) Gaming Laptop, $1,679.00, 530449428, G7 17 7710, Dell Gaming Laptops, Dell G7 17 (7710) Gaming Laptop
+Dell Alienware m15 R6 Gaming Laptop, $2,099.00, 233358531, Alienware m15 R6, Dell Gaming Laptops, Dell Alienware m15 R6 Gaming Laptop
+Dell Alienware m17 R4 Gaming Laptop, $2,299.00, 205424515, Alienware m17 R4, Dell Gaming Laptops, Dell Alienware m17 R4 Gaming Laptop
+Dell G5 SE (5505) Gaming Laptop, $869.00, 348952912, G5 15 SE, Dell Gaming Laptops, Dell G5 SE (5505) Gaming Laptop
+Dell G5 15 (5515) Gaming Laptop, $1,049.00, 536516827, G5 15 5515, Dell Gaming Laptops, Dell G5 15 (5515) Gaming Laptop
+Dell Alienware m15 R5 Gaming Laptop, $1,849.00, 470714347, Alienware m15 R5, Dell Gaming Laptops, Dell Alienware m15 R5 Gaming Laptop
